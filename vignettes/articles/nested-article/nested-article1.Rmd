@@ -1,0 +1,19 @@
+---
+title: "nested-article1"
+bibliography: ../../bib/references.bib
+csl: ../../bib/apa.csl
+link-citations: true
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(testpkgdown)
+```
+
+Here is a test nested article citation [@thompson-joss-2023].
