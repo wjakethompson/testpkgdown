@@ -13,3 +13,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/wjakethompson/testpkgdown
+BugReports: https://github.com/wjakethompson/testpkgdown/issues
